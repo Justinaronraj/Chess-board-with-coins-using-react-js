@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chess-board-with-coins-using-react-js/static/css/main.2fd8e739.css",
+    "main.js": "/Chess-board-with-coins-using-react-js/static/js/main.685121da.js",
+    "static/js/453.c382ab85.chunk.js": "/Chess-board-with-coins-using-react-js/static/js/453.c382ab85.chunk.js",
+    "index.html": "/Chess-board-with-coins-using-react-js/index.html",
+    "main.2fd8e739.css.map": "/Chess-board-with-coins-using-react-js/static/css/main.2fd8e739.css.map",
+    "main.685121da.js.map": "/Chess-board-with-coins-using-react-js/static/js/main.685121da.js.map",
+    "453.c382ab85.chunk.js.map": "/Chess-board-with-coins-using-react-js/static/js/453.c382ab85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fd8e739.css",
+    "static/js/main.685121da.js"
+  ]
+}
